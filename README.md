@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi there 👋  
 
 Welcome to my GitHub profile! I'm **Manas Pratim Das**, passionate about cutting-edge technologies and making meaningful contributions to the world of AI and software development.
@@ -23,8 +21,8 @@ Welcome to my GitHub profile! I'm **Manas Pratim Das**, passionate about cutting
 - Looking to collaborate on **AI/ML research projects** and **innovative AI applications**.  
 
 ### 📫 How to Reach Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 📧 Email: manas.pr94@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/manas-pratim-das-b95200197
 
 ### ⚡ Fun Fact
 - I believe **AI** is not just about technology but also about enhancing creativity and solving real-world challenges!

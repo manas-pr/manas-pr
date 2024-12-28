@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm **Manas Pratim Das**, passionate about cutting
 - 💡 Completed a major project on **Deep Learning with Generative Networks** during my B.Tech.  
 
 ### 🌱 Currently Exploring
-- 🤖 **Generative Artificial Networks**  
+- 🤖 **Generative Artificial Networks (GenAI)**  
 - 📚 **Retrieval-Augmented Generation (RAG) Pipelines**  
 - 🧠 Advances in **Natural Language Processing (NLP)**  
 

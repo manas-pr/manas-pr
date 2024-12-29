@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm **Manas Pratim Das**, passionate about cutting-edge technologies and making meaningful contributions to the world of AI and software development.
 
 ### 🚀 About Me
-- 🎓 I’m currently pursuing **M.Tech (Thesis)** in **Electronics and Communication Engineering**.  
+- 🎓 I’m currently pursuing **M.Tech/MS (Thesis)** in **Electronics and Communication Engineering**.  
 - 🔬 My research interests include **Generative AI (GenAI)** and **Large Language Models (LLMs)**.  
 - 💡 Completed a major project on **Deep Learning with Generative Networks** during my B.Tech.  
 

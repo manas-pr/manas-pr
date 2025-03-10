@@ -28,9 +28,12 @@ Welcome to my GitHub profile! I'm **Manas Pratim Das**, passionate about cutting
 - I believe **AI** is not just about technology but also about enhancing creativity and solving real-world challenges!
 
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=manas-pr&show_icons=true&theme=tokyonight)
-
+## 🚀 My GitHub Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=manas-pr&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=manas-pr&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-pr&layout=compact&theme=tokyonight" />
+</p>
 
 
 ---

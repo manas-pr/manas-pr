@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I'm **Manas Pratim Das**, passionate about cutting
 - Looking to collaborate on **AI/ML research projects** and **innovative AI applications**.  
 
 ### 📫 How to Reach Me
-### 📫 How to Reach Me
 - 📧 [**Email**](mailto:manas.pr94@gmail.com)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/manas-pratim-das-b95200197)
 - 🐙 [**GitHub**](https://github.com/manas-pr)

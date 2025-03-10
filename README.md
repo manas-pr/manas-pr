@@ -5,7 +5,7 @@
 </p>
 
 
-## Hi there 👋  
+## Hey there 👋  
 
 Welcome to my GitHub profile! I'm **Manas Pratim Das**, passionate about cutting-edge technologies and making meaningful contributions to the world of AI and software development.
 
